@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OpenActivity">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="@dimen/distance_150dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/iv_logo"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="@dimen/distance_56dp"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:text="@string/label_thanks_to"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="@dimen/distance_200dp"
+        android:layout_height="@dimen/distance_200dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_kumparan"/>
+
+</RelativeLayout>

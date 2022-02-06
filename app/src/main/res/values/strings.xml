@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kumparan Test Code</string>
+    <string name="label_main_menu">Main Menu</string>
+    <string name="label_photo_list">Photo List</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_thanks_to">Thanks To :</string>
+    <string name="label_image_detail">Image Detail</string>
+    <string name="label_comments">Comments</string>
+    <string name="label_company">Company</string>
+    <string name="label_address">Address</string>
+    <string name="label_email">Email</string>
+    <string name="label_name">Name</string>
+    <string name="label_albums_list">Albums List</string>
+    <string name="label_photos_album">Photos Album</string>
+    <string name="label_click_button_one_more_to_exit">Click the button again to exit</string>
+</resources>

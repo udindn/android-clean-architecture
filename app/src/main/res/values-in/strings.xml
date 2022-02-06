@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kumparan Test Code</string>
+    <string name="label_main_menu">Menu Utama</string>
+    <string name="label_photo_list">Daftar Foto</string>
+    <string name="label_detail">Detail</string>
+    <string name="label_profile">Profil</string>
+    <string name="label_thanks_to">Terimakasih Kepada :</string>
+    <string name="label_company">Perusahaan</string>
+    <string name="label_email">Email</string>
+    <string name="label_name">Nama</string>
+    <string name="label_albums_list">Daftar Album</string>
+    <string name="label_photos_album">Album Foto</string>
+    <string name="label_image_detail">Detail Gambar</string>
+    <string name="label_comments">Komentar</string>
+    <string name="label_address">Alamat</string>
+    <string name="label_click_button_one_more_to_exit">Klik tombol sekali lagi untuk keluar</string>
+</resources>
