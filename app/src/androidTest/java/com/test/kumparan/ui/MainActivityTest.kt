@@ -10,7 +10,8 @@ import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.espresso.matcher.ViewMatchers.withId
 import com.test.kumparan.MainActivity
 import com.test.kumparan.R
-import org.junit.*
+import org.junit.Before
+import org.junit.Test
 
 class MainActivityTest {
 
